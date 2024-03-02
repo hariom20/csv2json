@@ -1,7 +1,6 @@
 project-directory/
 │
-├── csv/
-│   └── users.csv
+├── user.csv
 │
 ├── index.js
 ├── .env
