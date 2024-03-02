@@ -1,0 +1,16 @@
+{
+    "name": "csv-to-json-converter",
+    "version": "1.0.0",
+    "description": "Converts CSV file to JSON and uploads data to PostgreSQL database",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "csv-parse": "^5.0.2",
+      "dotenv": "^16.0.0",
+      "express": "^4.17.2",
+      "pg": "^8.7.1"
+    }
+  }
+  
